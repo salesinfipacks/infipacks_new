@@ -22,13 +22,13 @@ const Home = () => {
       bodyClass={true}
     >
     <BannerTwo />
-     <Intro />
+    {/**  <Intro />*/}
       <AboutUsOne />
       <ServiceArea />
       <AboutCounterTwo />
       <Marqueue />
-      <Strategy />
-      <Team />
+    {/*  <Strategy />
+      <Team />*/}
       <Testimonial />
     </Layout>
   );

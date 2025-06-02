@@ -59,7 +59,7 @@ const ContactBanner = () => {
         </div>
       </div>
       <div className="contact-g-map">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d29208.601361499546!2d90.3598076!3d23.7803374!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1589109092857!5m2!1sen!2sbd"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d15554.802196819548!2d77.57590174526457!3d12.926957898146897!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sNo.%20827%2C%2031st%20A%20Cross%2C%20T%20Block%2C%20Jayanagar%2C%20Bangalore%2C%20Karnataka%2C%20India%20%E2%80%93%20560041!5e0!3m2!1sen!2sin!4v1748883108173!5m2!1sen!2sin"></iframe>
       </div>
     </>
   );

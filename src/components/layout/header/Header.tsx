@@ -68,10 +68,10 @@ const Header = ({ handleSearch, handleSidebar }: any) => {
             <li>
                   <Link href="/about">About Us</Link>
                 </li>
-                <li>
+               {/*<li>
                   <Link href="/team">Team</Link>
                 </li>
-            
+             */}
             <li>
               <Link href="/contact">Contact Us</Link>
             </li>

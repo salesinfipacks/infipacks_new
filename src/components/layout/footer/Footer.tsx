@@ -38,83 +38,68 @@ const Footer = () => {
             <div className="col-lg-6 align-self-center mb-4 mb-lg-0">
               <h2 className="animate-text-footer">
                 <span className="waviy ms-2">
-                  <span style={{ "--i": 1 } as React.CSSProperties}>L</span>
+                  <span style={{ "--i": 1 } as React.CSSProperties}>I</span>
                   <span
                     className="ms-1"
                     style={{ "--i": 2 } as React.CSSProperties}
                   >
-                    e
+                    N
                   </span>
                   <span
                     className="ms-1"
                     style={{ "--i": 3 } as React.CSSProperties}
                   >
-                    t
+                   F
                   </span>
-                  <span
-                    className="ms-1"
-                    style={{ "--i": 4 } as React.CSSProperties}
-                  >
-                    &apos;
-                  </span>
+                
                   <span
                     className="ms-1"
                     style={{ "--i": 5 } as React.CSSProperties}
                   >
-                    s
+                    I
                   </span>
                   <span
                     className="ms-2"
                     style={{ "--i": 6 } as React.CSSProperties}
                   >
-                    S
+                    P
                   </span>
                   <span
                     className="ms-1"
                     style={{ "--i": 7 } as React.CSSProperties}
                   >
-                    t
+                    A
                   </span>
                   <span
                     className="ms-1"
                     style={{ "--i": 8 } as React.CSSProperties}
                   >
-                    a
+                    C
                   </span>
                   <span
                     className="ms-1"
                     style={{ "--i": 9 } as React.CSSProperties}
                   >
-                    r
+                   K
                   </span>
                   <span
                     className="ms-1"
                     style={{ "--i": 10 } as React.CSSProperties}
                   >
-                    t
+                    S
                   </span>
-                  <span
-                    className="ms-1"
-                    style={{ "--i": 11 } as React.CSSProperties}
-                  >
-                    e
-                  </span>
-                  <span
-                    className="ms-1"
-                    style={{ "--i": 12 } as React.CSSProperties}
-                  >
-                    d
-                  </span>
+                  
+                 
                 </span>
               </h2>
 
               <p>
                 For furthur info & support,{" "}
-                <a href="contact.html">Contact us.</a>
+                <a href="contact">Contact us.</a>
               </p>
             </div>
             <div className="col-lg-6">
-              <div className="footer-subscribe">
+            {/*  <div className="footer-subscribe">
                 <div className="single-input-inner">
                   <input
                     className="input-field"
@@ -126,7 +111,7 @@ const Footer = () => {
                   </a>
                 </div>
                 <span>We&apos;ll contact you shortly</span>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
@@ -137,7 +122,7 @@ const Footer = () => {
             <div className="widget widget_about pe-xl-4">
               <h4 className="widget-title">The Address</h4>
               <div className="details">
-                <p>Valentin, Street Road 24, New York, USA - 67452</p>
+                <p>No. 827 31st A Cross T Block Jayanagar Bangalore, Karnataka, Bangalore, India, 560041</p>
               </div>
             </div>
           </div>
@@ -145,7 +130,7 @@ const Footer = () => {
             <div className="widget widget_about">
               <h4 className="widget-title">The Email</h4>
               <div className="details">
-                <p>attaxcontact@gmail.com</p>
+                <p> sales.Infipacks@gmail.com </p>
               </div>
             </div>
           </div>
@@ -153,7 +138,7 @@ const Footer = () => {
             <div className="widget widget_about">
               <h4 className="widget-title">The Phone</h4>
               <div className="details">
-                <p>+000 123 (456) 789</p>
+                <p>+91 99010 00849</p>
               </div>
             </div>
           </div>
@@ -171,13 +156,13 @@ const Footer = () => {
         <div className="footer-bottom">
           <div className="row">
             <div className="col-lg-4 align-self-center mb-1 mb-lg-0">
-              <p>Copyright © 2023 Attax. All rights reserved.</p>
+              <p>Copyright © 2025 Infipacks. All rights reserved.</p>
             </div>
             <div className="col-lg-5 align-self-center text-lg-center mb-3 mb-lg-0">
               <p>Privacy Policy / Terms & Services</p>
             </div>
             <div className="col-lg-3 text-lg-end">
-              <ul className="social-media">
+              {/*<ul className="social-media">
                 <li>
                   <a className="facebook" href="#">
                     <i className="fab fa-facebook-f"></i>
@@ -198,7 +183,7 @@ const Footer = () => {
                     <i className="fab fa-youtube"></i>
                   </a>
                 </li>
-              </ul>
+              </ul>*/}
             </div>
           </div>
         </div>

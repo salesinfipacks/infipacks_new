@@ -22,16 +22,15 @@ const about = () => {
       bodyClass={true}
     >
       <AboutBanner />
-      <AboutBannerVideo />
-      <AboutIntro />
+     {/* <AboutIntro />*/}
       <AboutTax />
-      <AboutCounter />
+      {/*<AboutCounter />
       <AboutTab />
       <AboutTeam />
       <AboutCta />
       <AboutCustomer />
       <ContactClient />
-      <ContactInstagram />
+      <ContactInstagram />*/}
     </Layout>
   );
 };

@@ -6,18 +6,14 @@ const AboutBanner = () => {
       <div className="container">
         <h4>More About us.</h4>
         <h3>
-          We&apos;re a full service tax advisor financial consulting globally
-          with largest brands.
+          We at Infipacks, pride ourselves on our ability to provide expertise and superior solutions to customers business requirement.
         </h3>
         <div className="row">
           <div className="col-lg-6 mt-lg-4 pt-lg-2">
             <p>
-              There are many variations of passages of Lorem Ipsum available,
-              have suffered alteration in some form, by injected humour, or
-              randomised words which don&apos;t look even slightly believable.
-              If you are going to use a passage of Lorem Ipsum, you need to be
-              sure there isn&apos;t anything embarrassing
+              Infipacks is a leading manufacturer and supplier of premium industrial materials, known for our commitment to quality, innovation, and customer satisfaction. What sets us apart is our ability to design and deliver products tailored to specific customer requirements—without compromising on cost or performance.
             </p>
+            <p> Our product range is rigorously tested and certified to UL94 V-0, ensuring top-tier fire resistance and safety standards.</p>
           </div>
           <div className="col-lg-6 order-lg-first text-lg-center">
             <div className="scroll-down top_image_bounce">

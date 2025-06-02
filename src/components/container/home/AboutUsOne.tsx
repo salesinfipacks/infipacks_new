@@ -3,9 +3,9 @@ import React, { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 
-import one from "public/images/about/17.png";
-import two from "public/images/about/18.png";
-import three from "public/images/about/19.png";
+import one from "public/images/service/A2-2 Anti-Vibration-Mounts.jpg";
+import two from "public/images/service/A2-3-Anti-Vibration-Mounts.jpg";
+import three from "public/images/service/A2-3-Anti-Vibration-Mounts.jpg";
 import four from "public/images/about/20.png";
 
 import { MdOutlineClose } from "react-icons/md";
@@ -38,28 +38,7 @@ const AboutUsOne = () => {
                     alt="img"
                   />
                 </button>
-                <div
-                  className={
-                    (videoActive ? " video-zoom-in" : " ") + " video-backdrop"
-                  }
-                  onClick={() => setVideoActive(false)}
-                >
-                  <div className="video-inner">
-                    <div
-                      className="video-container"
-                      onClick={(e: any) => e.stopPropagation()}
-                    >
-                      {videoActive && <YoutubeEmbed embedId="RvreULjnzFo" />}
-                      <button
-                        aria-label="close video popup"
-                        className="close-video-popup"
-                        onClick={() => setVideoActive(false)}
-                      >
-                        <MdOutlineClose />
-                      </button>
-                    </div>
-                  </div>
-                </div>
+                
               </div>
             </div>
             <div
@@ -71,10 +50,9 @@ const AboutUsOne = () => {
               <div className="section-title mb-0 mt-5 mt-lg-0">
                 <h6 className="sub-title">Who We Are</h6>
                 <h2 className="title mb-4">
-                  We at Infipacks, pride ourselves on our ability to provide expertise and superior solutions to customers business 
-requirement.
+                 We at Infipacks, pride ourselves on our ability to provide expertise and superior solutions to customers business requirement.
                 </h2>
-                <Image src={three} alt="img" />
+                
                 <p className="content">
                  We being manufacturer and supplier of high quality industrial materials and makes us unique by 
 designing the product based on customer requirement with cost competitive &quot;

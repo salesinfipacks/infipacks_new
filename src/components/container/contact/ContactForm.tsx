@@ -21,7 +21,7 @@ const ContactForm = () => {
       <div className="container">
         <div className="contact-page-inner">
           <div className="row justify-content-center">
-            <div className="col-lg-6 pe-xl-5">
+           {/* <div className="col-lg-6 pe-xl-5">
               <h3 className="mb-xl-5 mb-4">Write a message</h3>
               <div className="single-input-inner style-bg">
                 <input type="text" placeholder="Name" />
@@ -40,17 +40,15 @@ const ContactForm = () => {
                   Send A Message
                 </a>
               </div>
-            </div>
-            <div className="col-lg-6">
+            </div>*/}
+            <div className="col-lg-12">
               <div className="section-title mb-0 mt-5 mt-lg-0">
                 <h6 className="sub-title">// Quick Contact</h6>
                 <h2 className="title">
                   Solutions: all your questions answered
                 </h2>
                 <p className="content">
-                  Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut
-                  odit aut fugit, sed quia consequuntur magni dolores eos qui
-                  ratione
+                  We work closely with project teams to understand their challenges and apply our deep industry knowledge to develop smart, effective solutions. Our goal is simple: to exceed expectations through high-performance products, reliable delivery, and outstanding customer support.
                 </p>
                 <div className="media single-list-media style-3 mt-4">
                   <div className="media-left">
@@ -58,7 +56,7 @@ const ContactForm = () => {
                   </div>
                   <div className="media-body align-self-center">
                     <p>Have any question?</p>
-                    <h4>Free +88 (7800) 0002</h4>
+                    <h4>+91 99010 00849</h4>
                   </div>
                 </div>
                 <div className="media single-list-media style-3 mt-4">
@@ -67,7 +65,7 @@ const ContactForm = () => {
                   </div>
                   <div className="media-body align-self-center">
                     <p>Write email</p>
-                    <h4>wostix@gmail.com</h4>
+                    <h4>sales.Infipacks@gmail.com</h4>
                   </div>
                 </div>
                 <div className="media single-list-media style-3 mt-4 mb-0">
@@ -76,7 +74,7 @@ const ContactForm = () => {
                   </div>
                   <div className="media-body align-self-center">
                     <p>Visit anytime</p>
-                    <h4>30 golden street. New York</h4>
+                    <h4>No. 827 31st A Cross T Block Jayanagar Bangalore, Karnataka, Bangalore, India, 560041</h4>
                   </div>
                 </div>
               </div>

@@ -16,8 +16,7 @@ const Contact = () => {
     >
       <ContactBanner />
       <ContactForm />
-      <ContactClient />
-      <ContactInstagram />
+
     </Layout>
   );
 };
