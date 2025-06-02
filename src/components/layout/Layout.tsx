@@ -26,7 +26,7 @@ const Layout = ({
   bodyClass,
 }: layoutProps) => {
   const Meta = {
-    title: "Attax- Tax Advisor React Template",
+    title: "Infipacks",
     ...meta,
   };
 
