@@ -77,14 +77,14 @@ const Header = ({ handleSearch, handleSidebar }: any) => {
             </li>
           </ul>
         </div>
-        <div className="nav-right-part nav-right-part-desktop align-self-center">
-          <a
+      <div className="nav-right-part nav-right-part-desktop align-self-center">
+         {/**   <a
             className="menubar pointer"
             id="navigation-button"
             onClick={handleSidebar}
           >
             <Image src={eleven} alt="Image" />
-          </a>
+          </a> */}
           
         </div>
       </div>

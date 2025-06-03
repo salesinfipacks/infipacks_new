@@ -74,7 +74,7 @@ const AboutCounterTwo = () => {
                   </span>{" "}
                   +
                 </h2>
-                <h6>Successfully Project Done</h6>
+                <h6>Products</h6>
               </div>
             </div>
           </div>

@@ -28,8 +28,8 @@ const Home = () => {
       <AboutCounterTwo />
       <Marqueue />
     {/*  <Strategy />
-      <Team />*/}
-      <Testimonial />
+      <Team />
+      <Testimonial />*/}
     </Layout>
   );
 };
