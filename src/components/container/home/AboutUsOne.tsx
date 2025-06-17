@@ -3,8 +3,8 @@ import React, { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 
-import one from "public/images/service/A2-2 Anti-Vibration-Mounts.jpg";
-import two from "public/images/service/A2-3-Anti-Vibration-Mounts.jpg";
+import one from "public/images/service/whoweare.jpg";
+import two from "public/images/service/whowe.jpg";
 import three from "public/images/service/A2-3-Anti-Vibration-Mounts.jpg";
 import four from "public/images/about/20.png";
 
@@ -27,17 +27,7 @@ const AboutUsOne = () => {
             >
               <div className="about-thumb-area pe-0 pb-0">
                 <Image className="about-img-1 mb-3" src={one} alt="img" />
-                <Image className="about-img-1" src={two} alt="img" />
-                <button
-                  className="video-play-btn-inner"
-                  onClick={() => setVideoActive(true)}
-                >
-                  <Image
-                    className="about-img-video rotation_image"
-                    src={four}
-                    alt="img"
-                  />
-                </button>
+                
                 
               </div>
             </div>

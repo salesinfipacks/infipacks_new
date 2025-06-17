@@ -3,7 +3,7 @@ import React from "react";
 import Image from "next/image";
 
 import One from "public/images/about/7.png";
-import Two from "public/images/service/F6-Foam-Gasket-Tape.jpg";
+import Two from "public/images/teamsupport.jpg";
 import Three from "public/images/about/5.png";
 import Four from "public/images/icon/4.png";
 import Five from "public/images/icon/5.png";

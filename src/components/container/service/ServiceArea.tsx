@@ -46,6 +46,14 @@ const ServiceArea = () => {
             </div>
           </div>
         </div>
+          <div className="row justify-content-center">
+            <div className="col-lg-12">
+              <div className="section-title mb-0">
+                <h2 className="sub-title text-left">Foams</h2>
+                
+              </div>
+            </div>
+          </div>
         <div className="row">
           <div className="col-lg-4 col-md-6">
             <div className="single-service-inner">
@@ -126,6 +134,14 @@ const ServiceArea = () => {
                  PU Foam is a multi-functional material known for its excellent thermal insulation, sound absorption, and shock resistance. It also offers flame retardant, antistatic, and breathable properties, making it suitable for a wide range of industrial and commercial applications.
                 </p>
                
+              </div>
+            </div>
+          </div>
+          <div className="row justify-content-center">
+            <div className="col-lg-12">
+              <div className="section-title mb-0">
+                <h2 className="sub-title text-left">Rubber sheets</h2>
+                
               </div>
             </div>
           </div>
@@ -238,6 +254,14 @@ const ServiceArea = () => {
                   Nitrile Rubber Sheets are specifically designed for applications requiring excellent resistance to oils, fuels, water, and non-polar solvents. Known for their durability and flexibility, these sheets are ideal for use in automotive, industrial, and sealing applications.
                 </p>
                
+              </div>
+            </div>
+          </div>
+          <div className="row justify-content-center">
+            <div className="col-lg-12">
+              <div className="section-title mb-0">
+                <h2 className="sub-title text-left">Anti-vibration</h2>
+                
               </div>
             </div>
           </div>
