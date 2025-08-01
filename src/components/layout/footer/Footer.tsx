@@ -122,7 +122,7 @@ const Footer = () => {
             <div className="widget widget_about pe-xl-4">
               <h4 className="widget-title">The Address</h4>
               <div className="details">
-                <p>No. 827 31st A Cross T Block Jayanagar Bangalore, Karnataka, Bangalore, India, 560041</p>
+                <p>No. 827, 31st A Cross, T Block, Jayanagar Bangalore, Karnataka, Bangalore, India, 560041</p>
               </div>
             </div>
           </div>

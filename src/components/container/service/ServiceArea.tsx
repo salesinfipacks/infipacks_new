@@ -62,7 +62,7 @@ const ServiceArea = () => {
               </div>
               <div className="details">
                 <h4>
-                  <Link href="/service-details">EVA Foam</Link>
+                  <Link href="/#">EVA Foam</Link>
                 </h4>
                 <p>
                   EVA (Ethylene Vinyl Acetate) Foam is engineered for performance and reliability across a wide range of applications. Available in various thicknesses and hardness levels, it features a closed-cell structure that ensures excellent moisture resistance, long-term durability, Chemical Resistance, Antibacterial & Non-Toxic.
@@ -80,7 +80,7 @@ const ServiceArea = () => {
               </div>
               <div className="details">
                 <h4>
-                  <Link href="/service-details">Silicone foam</Link>
+                  <Link href="/">Silicone foam</Link>
                 </h4>
                 <p>
                 Silicone Foam is engineered for high-performance applications where durability, flexibility, and thermal stability are essential. Available in various thicknesses, it features a low specific gravity and delivers excellent sealing and cushioning performance. With high flame retardancy and a wide temperature resistance range from -60°C to 230°C, it is ideal for demanding environments.
@@ -96,7 +96,7 @@ const ServiceArea = () => {
               </div>
               <div className="details">
                 <h4>
-                  <Link href="/service-details">EPDM Foam</Link>
+                  <Link href="/#">EPDM Foam</Link>
                 </h4>
                 <p>
                   EPDM Foam offers excellent resistance to aging and weathering, including prolonged exposure to light, heat, and oxygen. It also provides outstanding ozone resistance, ensuring long-term durability in harsh environments. With a wide operating temperature range from -40°C to 150°C.
@@ -112,7 +112,7 @@ const ServiceArea = () => {
               </div>
               <div className="details">
                 <h4>
-                  <Link href="/service-details">XLPE Foam</Link>
+                  <Link href="/#">XLPE Foam</Link>
                 </h4>
                 <p>
                 XLPE Foam is a high-performance, closed-cell material produced through electron radiation crosslinking, offering enhanced durability and thermal stability. Available in a variety of thicknesses, it is widely used in building insulation, HVAC systems, and premium packaging applications.
@@ -128,7 +128,7 @@ const ServiceArea = () => {
               </div>
               <div className="details">
                 <h4>
-                  <Link href="/service-details">PU Foam</Link>
+                  <Link href="/#">PU Foam</Link>
                 </h4>
                 <p>
                  PU Foam is a multi-functional material known for its excellent thermal insulation, sound absorption, and shock resistance. It also offers flame retardant, antistatic, and breathable properties, making it suitable for a wide range of industrial and commercial applications.
@@ -152,7 +152,7 @@ const ServiceArea = () => {
               </div>
               <div className="details">
                 <h4>
-                  <Link href="/service-details">Foam Tapes</Link>
+                  <Link href="/#">Foam Tapes</Link>
                 </h4>
                 <p>
                  Foam Tapes are versatile adhesive solutions designed for sealing, cushioning, insulating, and vibration dampening across a wide range of applications. Made from high-quality materials such as EPDM, PU, PE, or PVC foam, these tapes offer excellent conformability, adhesion, and resistance to moisture, dust, and temperature variations.
@@ -168,7 +168,7 @@ const ServiceArea = () => {
               </div>
               <div className="details">
                 <h4>
-                  <Link href="/service-details">Neoprene Rubber sheet</Link>
+                  <Link href="/#">Neoprene Rubber sheet</Link>
                 </h4>
                 <p>
                 Neoprene Rubber Sheets are engineered for high-performance applications across industrial, marine, automotive, and construction sectors. Known for their exceptional resistance to oils, chemicals, and mild acids, these sheets maintain flexibility and strength under mechanical stress and across a wide temperature range. Available in Flame Retardant UL94 V0 grade.
@@ -184,7 +184,7 @@ const ServiceArea = () => {
               </div>
               <div className="details">
                 <h4>
-                  <Link href="/service-details">Natural Rubber / SBR Sheets</Link>
+                  <Link href="/#">Natural Rubber / SBR Sheets</Link>
                 </h4>
                 <p>
                  Natural Rubber and SBR (Styrene-Butadiene Rubber) Sheets are known for their outstanding physical and mechanical properties, making them ideal for a wide range of industrial and commercial applications. These sheets offer a perfect balance of durability, flexibility, and affordability.
@@ -200,7 +200,7 @@ const ServiceArea = () => {
               </div>
               <div className="details">
                 <h4>
-                  <Link href="/service-details"> EPDM Rubber Sheet </Link>
+                  <Link href="/#"> EPDM Rubber Sheet </Link>
                 </h4>
                 <p>
                 EPDM Rubber Sheets are engineered for superior performance in extreme environmental conditions. Known for their outstanding resistance to UV rays, ozone, steam, heat, and weathering, these sheets are ideal for both indoor and outdoor applications. They maintain flexibility even at temperatures as low as -50°C, ensuring reliable performance in a wide range of climates. Available in Flame Retardant UL94 V0 grade.
@@ -216,7 +216,7 @@ const ServiceArea = () => {
               </div>
               <div className="details">
                 <h4>
-                  <Link href="/service-details">Silicon Rubber sheet</Link>
+                  <Link href="/#">Silicon Rubber sheet</Link>
                 </h4>
                 <p>
                 Silicone Rubber Sheets are engineered to perform reliably in the most demanding environments. With a wide temperature tolerance from -60°C to +230°C, they retain their physical and mechanical properties even under extreme thermal stress. These sheets are safe for use in ovens, microwaves, and freezers, making them ideal for both industrial and food-grade applications.
@@ -232,7 +232,7 @@ const ServiceArea = () => {
               </div>
               <div className="details">
                 <h4>
-                  <Link href="/service-details">Food Grade Rubber Sheets</Link>
+                  <Link href="/#">Food Grade Rubber Sheets</Link>
                 </h4>
                 <p>
                   Food Grade Rubber Sheets are specially formulated for applications requiring the highest standards of cleanliness, safety, and performance. Designed with a smooth, visually appealing finish, they offer enhanced durability and resistance to environmental and chemical exposure—making them ideal for food processing, packaging, and pharmaceutical industries.
@@ -248,7 +248,7 @@ const ServiceArea = () => {
               </div>
               <div className="details">
                 <h4>
-                  <Link href="/service-details">Nitrile Rubber Sheet</Link>
+                  <Link href="/#">Nitrile Rubber Sheet</Link>
                 </h4>
                 <p>
                   Nitrile Rubber Sheets are specifically designed for applications requiring excellent resistance to oils, fuels, water, and non-polar solvents. Known for their durability and flexibility, these sheets are ideal for use in automotive, industrial, and sealing applications.
@@ -272,7 +272,7 @@ const ServiceArea = () => {
               </div>
               <div className="details">
                 <h4>
-                  <Link href="/service-details">Anti-Vibration Rubber Pads</Link>
+                  <Link href="/#">Anti-Vibration Rubber Pads</Link>
                 </h4>
                 <p>
                  Anti-Vibration Rubber Pads, also known as vibration isolation pads, are designed to absorb and dissipate vibrational energy, preventing it from transferring to surrounding equipment or structures. These pads play a crucial role in reducing noise, minimizing wear and tear, and extending the lifespan of machinery.
@@ -288,7 +288,7 @@ const ServiceArea = () => {
               </div>
               <div className="details">
                 <h4>
-                  <Link href="/service-details">Anti Vibration Mounts</Link>
+                  <Link href="/#">Anti Vibration Mounts</Link>
                 </h4>
                 <p>
                  Anti-Vibration Mounts are specifically designed to absorb and isolate vibrations, shocks, and noise generated by industrial and commercial machinery. Constructed from high-quality rubber and durable metal components, these mounts offer exceptional load-bearing capacity and long-lasting performance, even in the most demanding operational environments.
