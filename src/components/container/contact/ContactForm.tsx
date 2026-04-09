@@ -65,7 +65,7 @@ const ContactForm = () => {
                   </div>
                   <div className="media-body align-self-center">
                     <p>Write email</p>
-                    <h4>sales.Infipacks@gmail.com</h4>
+                    <h4>sales@infipacks.com</h4>
                   </div>
                 </div>
                 <div className="media single-list-media style-3 mt-4 mb-0">
@@ -74,7 +74,7 @@ const ContactForm = () => {
                   </div>
                   <div className="media-body align-self-center">
                     <p>Visit anytime</p>
-                    <h4>No. 827 31st A Cross T Block Jayanagar Bangalore, Karnataka, Bangalore, India, 560041</h4>
+                    <h4>No. 47, Doresanipalya Industrial Area, Bilekahalli, Bannerghatta Road, Bangalore - 560076</h4>
                   </div>
                 </div>
               </div>
